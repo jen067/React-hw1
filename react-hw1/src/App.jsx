@@ -41,11 +41,7 @@ function App() {
         {/* Home */}
         <section className="home section" id="home">
           <div className="home-container container grid">
-            <img
-              src="./public/img/home-cactus.png"
-              alt=""
-              className="home-img"
-            />
+            <img src="/img/home-cactus.png" alt="" className="home-img" />
 
             <div className="home-data">
               <h1 className="home-title">
@@ -92,29 +88,17 @@ function App() {
             </div>
             <div className="new-content grid">
               <article className="new-card">
-                <img
-                  src="./public/img/new-cactus-1.png"
-                  alt=""
-                  className="new-img"
-                />
+                <img src="/img/new-cactus-1.png" alt="" className="new-img" />
                 <h2 className="new-title">Gymnocalycium Cactus</h2>
               </article>
 
               <article className="new-card">
-                <img
-                  src="./public/img/new-cactus-2.png"
-                  alt=""
-                  className="new-img"
-                />
+                <img src="/img/new-cactus-2.png" alt="" className="new-img" />
                 <h2 className="new-title">Lily Paf Succulent</h2>
               </article>
 
               <article className="new-card">
-                <img
-                  src="./public/img/new-cactus-3.png"
-                  alt=""
-                  className="new-img"
-                />
+                <img src="/img/new-cactus-3.png" alt="" className="new-img" />
                 <h2 className="new-title">Rebutia Cactus</h2>
               </article>
             </div>
